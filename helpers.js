@@ -214,7 +214,7 @@ module.exports = {
     return "<img src='http://placehold.it/" + width + "x" + height + "'>";
   },
   'button': function(classes, text) {
-    return '<a href="#" class="button ' + classes + '"">' + text + '</a>';
+    return '<a href="#" class="button ' + classes + '">' + text + '</a>';
   },
   'link': function(text, classes) {
     return '<a href="#" class="' + classes + '"">' + text + '</a>';

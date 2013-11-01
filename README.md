@@ -16,7 +16,7 @@ Some additional helper functions
   - example: {{{link "Explore Careers" "bold"}}}
   - output: 
     ``` html
-    <a href="#" class="bold" "="">Explore Careers</a>
+    <a href="#" class="bold">Explore Careers</a>
     ```
 - **{{{icon | Icon set | Icon name}}} - foundation icon**
   - where icon set is

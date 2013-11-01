@@ -4,8 +4,5 @@
 }
 ---
 
-## Prototype Pages
-
 * **Content:**
-  * [Chapters](/content/chapters)
-  * [Opportunities](/content/opportunities)
+  * [Page](/content/page)
